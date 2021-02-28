@@ -1,0 +1,12 @@
+C:\TesteIT\TesteITG\TesteITG.Entity\obj\Debug\netcoreapp3.1\TesteITG.Entity.AssemblyInfoInputs.cache
+C:\TesteIT\TesteITG\TesteITG.Entity\obj\Debug\netcoreapp3.1\TesteITG.Entity.AssemblyInfo.cs
+C:\TesteIT\TesteITG\TesteITG.Entity\obj\Debug\netcoreapp3.1\TesteITG.Entity.csproj.CoreCompileInputs.cache
+C:\TesteIT\TesteITG\TesteITG.Entity\bin\Debug\netcoreapp3.1\TesteITG.Entity.deps.json
+C:\TesteIT\TesteITG\TesteITG.Entity\bin\Debug\netcoreapp3.1\TesteITG.Entity.runtimeconfig.json
+C:\TesteIT\TesteITG\TesteITG.Entity\bin\Debug\netcoreapp3.1\TesteITG.Entity.runtimeconfig.dev.json
+C:\TesteIT\TesteITG\TesteITG.Entity\bin\Debug\netcoreapp3.1\TesteITG.Entity.dll
+C:\TesteIT\TesteITG\TesteITG.Entity\bin\Debug\netcoreapp3.1\TesteITG.Entity.pdb
+C:\TesteIT\TesteITG\TesteITG.Entity\obj\Debug\netcoreapp3.1\TesteITG.Entity.dll
+C:\TesteIT\TesteITG\TesteITG.Entity\obj\Debug\netcoreapp3.1\TesteITG.Entity.pdb
+C:\TesteIT\TesteITG\TesteITG.Entity\obj\Debug\netcoreapp3.1\TesteITG.Entity.genruntimeconfig.cache
+C:\TesteIT\TesteITG\TesteITG.Entity\obj\Debug\netcoreapp3.1\TesteITG.Entity.csprojAssemblyReference.cache

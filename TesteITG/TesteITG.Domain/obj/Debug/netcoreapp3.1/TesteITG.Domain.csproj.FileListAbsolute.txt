@@ -1,0 +1,12 @@
+C:\TesteIT\TesteITG\TesteITG.Domain\bin\Debug\netcoreapp3.1\TesteITG.Domain.deps.json
+C:\TesteIT\TesteITG\TesteITG.Domain\bin\Debug\netcoreapp3.1\TesteITG.Domain.dll
+C:\TesteIT\TesteITG\TesteITG.Domain\bin\Debug\netcoreapp3.1\TesteITG.Domain.pdb
+C:\TesteIT\TesteITG\TesteITG.Domain\bin\Debug\netcoreapp3.1\TesteITG.Entity.dll
+C:\TesteIT\TesteITG\TesteITG.Domain\bin\Debug\netcoreapp3.1\TesteITG.Entity.pdb
+C:\TesteIT\TesteITG\TesteITG.Domain\obj\Debug\netcoreapp3.1\TesteITG.Domain.csprojAssemblyReference.cache
+C:\TesteIT\TesteITG\TesteITG.Domain\obj\Debug\netcoreapp3.1\TesteITG.Domain.AssemblyInfoInputs.cache
+C:\TesteIT\TesteITG\TesteITG.Domain\obj\Debug\netcoreapp3.1\TesteITG.Domain.AssemblyInfo.cs
+C:\TesteIT\TesteITG\TesteITG.Domain\obj\Debug\netcoreapp3.1\TesteITG.Domain.csproj.CoreCompileInputs.cache
+C:\TesteIT\TesteITG\TesteITG.Domain\obj\Debug\netcoreapp3.1\TesteITG.Domain.csproj.CopyComplete
+C:\TesteIT\TesteITG\TesteITG.Domain\obj\Debug\netcoreapp3.1\TesteITG.Domain.dll
+C:\TesteIT\TesteITG\TesteITG.Domain\obj\Debug\netcoreapp3.1\TesteITG.Domain.pdb
