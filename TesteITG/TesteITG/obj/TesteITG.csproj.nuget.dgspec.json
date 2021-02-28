@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TesteIT\\TesteITG\\TesteITG\\TesteITG.csproj": {}
+    "C:\\novoteste\\ITG\\TesteITG\\TesteITG\\TesteITG.csproj": {}
   },
   "projects": {
-    "C:\\TesteIT\\TesteITG\\TesteITG.Domain\\TesteITG.Domain.csproj": {
+    "C:\\novoteste\\ITG\\TesteITG\\TesteITG.Domain\\TesteITG.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TesteIT\\TesteITG\\TesteITG.Domain\\TesteITG.Domain.csproj",
+        "projectUniqueName": "C:\\novoteste\\ITG\\TesteITG\\TesteITG.Domain\\TesteITG.Domain.csproj",
         "projectName": "TesteITG.Domain",
-        "projectPath": "C:\\TesteIT\\TesteITG\\TesteITG.Domain\\TesteITG.Domain.csproj",
+        "projectPath": "C:\\novoteste\\ITG\\TesteITG\\TesteITG.Domain\\TesteITG.Domain.csproj",
         "packagesPath": "C:\\Users\\Francisco Corte\\.nuget\\packages\\",
-        "outputPath": "C:\\TesteIT\\TesteITG\\TesteITG.Domain\\obj\\",
+        "outputPath": "C:\\novoteste\\ITG\\TesteITG\\TesteITG.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -32,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\TesteIT\\TesteITG\\TesteITG.Entity\\TesteITG.Entity.csproj": {
-                "projectPath": "C:\\TesteIT\\TesteITG\\TesteITG.Entity\\TesteITG.Entity.csproj"
+              "C:\\novoteste\\ITG\\TesteITG\\TesteITG.Entity\\TesteITG.Entity.csproj": {
+                "projectPath": "C:\\novoteste\\ITG\\TesteITG\\TesteITG.Entity\\TesteITG.Entity.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\TesteIT\\TesteITG\\TesteITG.Entity\\TesteITG.Entity.csproj": {
+    "C:\\novoteste\\ITG\\TesteITG\\TesteITG.Entity\\TesteITG.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TesteIT\\TesteITG\\TesteITG.Entity\\TesteITG.Entity.csproj",
+        "projectUniqueName": "C:\\novoteste\\ITG\\TesteITG\\TesteITG.Entity\\TesteITG.Entity.csproj",
         "projectName": "TesteITG.Entity",
-        "projectPath": "C:\\TesteIT\\TesteITG\\TesteITG.Entity\\TesteITG.Entity.csproj",
+        "projectPath": "C:\\novoteste\\ITG\\TesteITG\\TesteITG.Entity\\TesteITG.Entity.csproj",
         "packagesPath": "C:\\Users\\Francisco Corte\\.nuget\\packages\\",
-        "outputPath": "C:\\TesteIT\\TesteITG\\TesteITG.Entity\\obj\\",
+        "outputPath": "C:\\novoteste\\ITG\\TesteITG\\TesteITG.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -158,14 +158,14 @@
         }
       }
     },
-    "C:\\TesteIT\\TesteITG\\TesteITG\\TesteITG.csproj": {
+    "C:\\novoteste\\ITG\\TesteITG\\TesteITG\\TesteITG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TesteIT\\TesteITG\\TesteITG\\TesteITG.csproj",
+        "projectUniqueName": "C:\\novoteste\\ITG\\TesteITG\\TesteITG\\TesteITG.csproj",
         "projectName": "TesteITG",
-        "projectPath": "C:\\TesteIT\\TesteITG\\TesteITG\\TesteITG.csproj",
+        "projectPath": "C:\\novoteste\\ITG\\TesteITG\\TesteITG\\TesteITG.csproj",
         "packagesPath": "C:\\Users\\Francisco Corte\\.nuget\\packages\\",
-        "outputPath": "C:\\TesteIT\\TesteITG\\TesteITG\\obj\\",
+        "outputPath": "C:\\novoteste\\ITG\\TesteITG\\TesteITG\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -186,11 +186,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\TesteIT\\TesteITG\\TesteITG.Domain\\TesteITG.Domain.csproj": {
-                "projectPath": "C:\\TesteIT\\TesteITG\\TesteITG.Domain\\TesteITG.Domain.csproj"
+              "C:\\novoteste\\ITG\\TesteITG\\TesteITG.Domain\\TesteITG.Domain.csproj": {
+                "projectPath": "C:\\novoteste\\ITG\\TesteITG\\TesteITG.Domain\\TesteITG.Domain.csproj"
               },
-              "C:\\TesteIT\\TesteITG\\TesteITG.Entity\\TesteITG.Entity.csproj": {
-                "projectPath": "C:\\TesteIT\\TesteITG\\TesteITG.Entity\\TesteITG.Entity.csproj"
+              "C:\\novoteste\\ITG\\TesteITG\\TesteITG.Entity\\TesteITG.Entity.csproj": {
+                "projectPath": "C:\\novoteste\\ITG\\TesteITG\\TesteITG.Entity\\TesteITG.Entity.csproj"
               }
             }
           }

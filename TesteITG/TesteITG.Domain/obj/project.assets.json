@@ -7118,11 +7118,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TesteIT\\TesteITG\\TesteITG.Domain\\TesteITG.Domain.csproj",
+      "projectUniqueName": "C:\\novoteste\\ITG\\TesteITG\\TesteITG.Domain\\TesteITG.Domain.csproj",
       "projectName": "TesteITG.Domain",
-      "projectPath": "C:\\TesteIT\\TesteITG\\TesteITG.Domain\\TesteITG.Domain.csproj",
+      "projectPath": "C:\\novoteste\\ITG\\TesteITG\\TesteITG.Domain\\TesteITG.Domain.csproj",
       "packagesPath": "C:\\Users\\Francisco Corte\\.nuget\\packages\\",
-      "outputPath": "C:\\TesteIT\\TesteITG\\TesteITG.Domain\\obj\\",
+      "outputPath": "C:\\novoteste\\ITG\\TesteITG\\TesteITG.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -7143,8 +7143,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\TesteIT\\TesteITG\\TesteITG.Entity\\TesteITG.Entity.csproj": {
-              "projectPath": "C:\\TesteIT\\TesteITG\\TesteITG.Entity\\TesteITG.Entity.csproj"
+            "C:\\novoteste\\ITG\\TesteITG\\TesteITG.Entity\\TesteITG.Entity.csproj": {
+              "projectPath": "C:\\novoteste\\ITG\\TesteITG\\TesteITG.Entity\\TesteITG.Entity.csproj"
             }
           }
         }

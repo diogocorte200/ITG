@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7LQHcQby6FgqNApWSIwqSbtfqKLXamNOAgAuj/PdSx6EEgxcq4CnHn3ZYC5Em6TyaFyfabeWof/L5k5P7mO8cA==",
+  "dgSpecHash": "qETRkmB8Kel9jIUS+W0jNmc+BJDV3tOf/LPPxvgDyNyyoWaK2wexxjtho8Qu9zijzxAz49Na4eav645+u94HTA==",
   "success": true,
-  "projectFilePath": "C:\\TesteIT\\TesteITG\\TesteITG\\TesteITG.csproj",
+  "projectFilePath": "C:\\novoteste\\ITG\\TesteITG\\TesteITG\\TesteITG.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Francisco Corte\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Francisco Corte\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

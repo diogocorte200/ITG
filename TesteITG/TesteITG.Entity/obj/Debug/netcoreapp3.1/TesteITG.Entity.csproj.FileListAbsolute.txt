@@ -10,3 +10,15 @@ C:\TesteIT\TesteITG\TesteITG.Entity\obj\Debug\netcoreapp3.1\TesteITG.Entity.dll
 C:\TesteIT\TesteITG\TesteITG.Entity\obj\Debug\netcoreapp3.1\TesteITG.Entity.pdb
 C:\TesteIT\TesteITG\TesteITG.Entity\obj\Debug\netcoreapp3.1\TesteITG.Entity.genruntimeconfig.cache
 C:\TesteIT\TesteITG\TesteITG.Entity\obj\Debug\netcoreapp3.1\TesteITG.Entity.csprojAssemblyReference.cache
+C:\novoteste\ITG\TesteITG\TesteITG.Entity\bin\Debug\netcoreapp3.1\TesteITG.Entity.deps.json
+C:\novoteste\ITG\TesteITG\TesteITG.Entity\bin\Debug\netcoreapp3.1\TesteITG.Entity.runtimeconfig.json
+C:\novoteste\ITG\TesteITG\TesteITG.Entity\bin\Debug\netcoreapp3.1\TesteITG.Entity.runtimeconfig.dev.json
+C:\novoteste\ITG\TesteITG\TesteITG.Entity\bin\Debug\netcoreapp3.1\TesteITG.Entity.dll
+C:\novoteste\ITG\TesteITG\TesteITG.Entity\bin\Debug\netcoreapp3.1\TesteITG.Entity.pdb
+C:\novoteste\ITG\TesteITG\TesteITG.Entity\obj\Debug\netcoreapp3.1\TesteITG.Entity.csprojAssemblyReference.cache
+C:\novoteste\ITG\TesteITG\TesteITG.Entity\obj\Debug\netcoreapp3.1\TesteITG.Entity.AssemblyInfoInputs.cache
+C:\novoteste\ITG\TesteITG\TesteITG.Entity\obj\Debug\netcoreapp3.1\TesteITG.Entity.AssemblyInfo.cs
+C:\novoteste\ITG\TesteITG\TesteITG.Entity\obj\Debug\netcoreapp3.1\TesteITG.Entity.csproj.CoreCompileInputs.cache
+C:\novoteste\ITG\TesteITG\TesteITG.Entity\obj\Debug\netcoreapp3.1\TesteITG.Entity.dll
+C:\novoteste\ITG\TesteITG\TesteITG.Entity\obj\Debug\netcoreapp3.1\TesteITG.Entity.pdb
+C:\novoteste\ITG\TesteITG\TesteITG.Entity\obj\Debug\netcoreapp3.1\TesteITG.Entity.genruntimeconfig.cache
